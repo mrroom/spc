@@ -6,6 +6,8 @@
   (즉 "Never Ending Improvement Program"으로서 개선을 위하여 연속적으로 적용해 가야 할 관리기법)
 - SPC를 통하여 우리가 목표로 하는 가장 중요한 것은 품질 산포가 작은 균일한 품질의 제품을 생산. 
   즉 SPC적 관리를 통하여 공정변동을 줄여 가고자 함.
+  
+  ![산포의 의미](http://www.spclink.co.kr/images/sub0101a.jpg)
 
 # SPC 시스템 요구사항
 - 정확한 검사 DATA를 실시간 저장,분석
