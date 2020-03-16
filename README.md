@@ -24,19 +24,47 @@
 
 # QC7 도구
 
-1.특성요인도(cause-effect diagram)
+1. 파레토그래프(Pareto's graph)
 
-2.층별(stratification)
+  - 목적: 개선활동의 우선순위를 결정
 
-3.체크시트(check sheet)
+  - 용도: 현상태의 문제점 파악, 개선효과의 확인
 
-4.히스토그램(histogram)
+2. 히스트그램(histogram)
 
-5.산점도(scatter diagram)
+  - 목적: 품질데이터의 산포를 파악
 
-6.파레토그래프(Pareto's graph)
+  - 용도: 분포의 모양파악 및 규격대비, 공정능력 파악
 
-7.관리도(control chart)와 그래프(graph)
+3. 관리도(control chart) 및 그래프(graph)
+
+  - 목적: 데이터의 시각화와 공정의 이상여부 파악
+
+  - 용도: 데이터의 시각화, 공정의 관리 및 해석
+
+4. 체크시트(check sheet)
+
+  -목적: 데이터의 수집과 분석
+
+  - 용도: 데이터의 도식화, 예방점검
+
+5. 특성요인도(cause-effect diagram)
+
+  - 목적: 원인과 결과의 관계를 파악
+
+  - 용도: 원인을 모두 도면에 나열, 층별
+
+6. 산점도(scatter diagram)
+
+  - 목적: 대응하는 두 종류 데이터의 관계 파악
+
+  - 용도: 원인과 결과의 상관관계 파악, 층별
+
+7. 층별(stratification)
+
+  - 목적: 불량원인의 추적
+
+  - 용도: 무제의 핵심 파악, 5M1E에 의한 요인 추구
 
 # SPC 시스템 DB Spec
 - SQL Server 2017 성능(InMemory, CCI)
