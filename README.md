@@ -18,6 +18,7 @@
 # SPC 시스템 통계분석 제공 내용
 - 공정 모니터
 - 관리도(계량치, 계수치)와 공정능력 분석
+  [공정능력분석(Cp,Cpk,Pp,Ppk)](http://blog.naver.com/PostView.nhn?blogId=jiwoo6941&logNo=220248030868&categoryNo=25&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=search&userTopListOpen=true&userTopListCount=10&userTopListManageOpen=false&userTopListCurrentPage=1)
 - 입력변수(X인자)와 결과변수(Y인자)의 통합관리
 - 측정 데이터 변수들의 상관분석 및 다변량 분석
 - 비교대상 통계량의 추정과 검정에 따른 해석 지원
