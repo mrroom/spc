@@ -41,6 +41,8 @@
   - 목적: 데이터의 시각화와 공정의 이상여부 파악
 
   - 용도: 데이터의 시각화, 공정의 관리 및 해석
+  
+  - [엑셀을 활용하여 XBar-R관리도 그리기](http://blog.naver.com/PostView.nhn?blogId=jiwoo6941&logNo=220248024509&parentCategoryNo=&categoryNo=25&viewDate=&isShowPopularPosts=true&from=search)
 
 4. 체크시트(check sheet)
 
