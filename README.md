@@ -64,7 +64,7 @@
 
   - 목적: 불량원인의 추적
 
-  - 용도: 무제의 핵심 파악, 5M1E에 의한 요인 추구
+  - 용도: 무제의 핵심 파악, 5M1E(작업자(Man), 기계(Machine), 자재(Material), 작업방법(Method), 측정(Measurement), 환경(Environment))에 의한 요인 추구
 
 # SPC 시스템 DB Spec
 - SQL Server 2017 성능(InMemory, CCI)
