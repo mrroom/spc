@@ -22,6 +22,22 @@
 - 측정 데이터 변수들의 상관분석 및 다변량 분석
 - 비교대상 통계량의 추정과 검정에 따른 해석 지원
 
+# QC7 도구
+
+1.특성요인도(cause-effect diagram)
+
+2.층별(stratification)
+
+3.체크시트(check sheet)
+
+4.히스토그램(histogram)
+
+5.산점도(scatter diagram)
+
+6.파레토그래프(Pareto's graph)
+
+7.관리도(control chart)와 그래프(graph)
+
 # SPC 시스템 DB Spec
 - SQL Server 2017 성능(InMemory, CCI)
 
