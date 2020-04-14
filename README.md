@@ -31,7 +31,8 @@
 
 - 관리도(계량치, 계수치)와 공정능력 분석
 
-  [공정능력분석(Cp,Cpk,Pp,Ppk)](http://blog.naver.com/PostView.nhn?blogId=jiwoo6941&logNo=220248030868&categoryNo=25&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=search&userTopListOpen=true&userTopListCount=10&userTopListManageOpen=false&userTopListCurrentPage=1)
+  [공정능력분석(Cp,Cpk,Pp,Ppk)](http://blog.naver.com/PostView.nhn?blogId=jiwoo6941&logNo=220248030868&categoryNo=25&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=search&userTopListOpen=true&userTopListCount=10&userTopListManageOpen=false&userTopListCurrentPage=1)  
+  
   [공정능력 CP, CPK, 시그마수준](https://walkingfox.tistory.com/11)
   
 - 입력변수(X인자)와 결과변수(Y인자)의 통합관리
