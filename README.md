@@ -37,6 +37,8 @@
   
   [평균 그리고 표준편차의 개념](https://walkingfox.tistory.com/10)
   
+  [3시그마 규칙 ( 68-95-99.7 규칙 )](https://walkingfox.tistory.com/118?category=628022)
+  
 - 입력변수(X인자)와 결과변수(Y인자)의 통합관리
 
 - 측정 데이터 변수들의 상관분석 및 다변량 분석
