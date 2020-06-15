@@ -51,7 +51,9 @@
 
   - 목적: 개선활동의 우선순위를 결정
 
-  - 용도: 현상태의 문제점 파악, 개선효과의 확인
+  - 용도: 현상태의 문제점 파악, 개선효과의 확인 
+  
+  - [Pareto Chart(파레토 차트)](https://m.blog.naver.com/PostView.nhn?blogId=kdoil4532&logNo=221259838864&proxyReferer=https:%2F%2Fwww.google.com%2F)
 
 2. 히스트그램(histogram)
 
