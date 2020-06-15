@@ -98,6 +98,7 @@
   - 용도: 무제의 핵심 파악, 5M1E(작업자(Man), 기계(Machine), 자재(Material), 작업방법(Method), 측정(Measurement), 환경(Environment))에 의한 요인 추구
 
 ### [SPC for Excel Statistical Tools](https://www.spcforexcel.com/spc-software/statistical-tools-spc-for-excel)
+### [통계적 공정관리[SPC]](http://hrd.pps.go.kr:8820/home/DownloadBoardAction.do?BO_IDX=3895&FILE_NO=10638&BO_CODE=REFERENCE_ROOM)
 
 # SPC 시스템 DB Spec
 
