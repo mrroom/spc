@@ -68,6 +68,8 @@
   - 목적: 품질데이터의 산포를 파악
 
   - 용도: 분포의 모양파악 및 규격대비, 공정능력 파악
+  
+  - [확률분포 적합성](http://www.databaser.net/moniwiki/wiki.php/%ED%99%95%EB%A5%A0%EB%B6%84%ED%8F%AC%EC%A0%81%ED%95%A9%EC%84%B1)
 
 4. 관리도(control chart) 및 그래프(graph)
 
