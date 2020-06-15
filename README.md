@@ -47,33 +47,35 @@
 
 # QC7 도구
 
-1. 파레토그래프(Pareto's graph)
+1. 체크시트(check sheet)
+
+  - 목적: 데이터의 수집과 분석
+
+  - 용도: 데이터의 도식화, 예방점검
+  
+2. 파레토그래프(Pareto's graph)
 
   - 목적: 개선활동의 우선순위를 결정
 
   - 용도: 현상태의 문제점 파악, 개선효과의 확인 
   
-  - [Pareto Chart(파레토 차트)](https://m.blog.naver.com/PostView.nhn?blogId=kdoil4532&logNo=221259838864&proxyReferer=https:%2F%2Fwww.google.com%2F)
+  - [Pareto Chart(파레토 차트)](https://m.blog.naver.com/PostView.nhn?blogId=kdoil4532&logNo=221259838864&proxyReferer=https:%2F%2Fwww.google.com%2F) 
+  
+  - [Pareto Analysis and Check Sheets](http://owic.oregonstate.edu/sites/default/files/pubs/EM8771.pdf) 
 
-2. 히스트그램(histogram)
+3. 히스트그램(histogram)
 
   - 목적: 품질데이터의 산포를 파악
 
   - 용도: 분포의 모양파악 및 규격대비, 공정능력 파악
 
-3. 관리도(control chart) 및 그래프(graph)
+4. 관리도(control chart) 및 그래프(graph)
 
   - 목적: 데이터의 시각화와 공정의 이상여부 파악
 
   - 용도: 데이터의 시각화, 공정의 관리 및 해석
   
   - [엑셀을 활용하여 XBar-R관리도 그리기](http://blog.naver.com/PostView.nhn?blogId=jiwoo6941&logNo=220248024509&parentCategoryNo=&categoryNo=25&viewDate=&isShowPopularPosts=true&from=search)
-
-4. 체크시트(check sheet)
-
-  - 목적: 데이터의 수집과 분석
-
-  - 용도: 데이터의 도식화, 예방점검
 
 5. 특성요인도(cause-effect diagram)
 
