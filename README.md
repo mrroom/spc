@@ -77,7 +77,9 @@
 
   - 용도: 데이터의 시각화, 공정의 관리 및 해석
   
-  - [엑셀을 활용하여 XBar-R관리도 그리기](http://blog.naver.com/PostView.nhn?blogId=jiwoo6941&logNo=220248024509&parentCategoryNo=&categoryNo=25&viewDate=&isShowPopularPosts=true&from=search)
+  - [엑셀을 활용하여 XBar-R관리도 그리기](http://blog.naver.com/PostView.nhn?blogId=jiwoo6941&logNo=220248024509&parentCategoryNo=&categoryNo=25&viewDate=&isShowPopularPosts=true&from=search) 
+  
+  - [관리도핵심요약](https://slidesplayer.org/slide/14294125/) 
 
 5. 특성요인도(cause-effect diagram)
 
