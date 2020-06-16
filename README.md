@@ -84,6 +84,8 @@
   - [품질 실무 관리도](http://www.hansung.ac.kr/web/quality-mgmt/4?p_p_id=EXT_BBS&p_p_lifecycle=1&p_p_state=exclusive&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_EXT_BBS_struts_action=%2Fext%2Fbbs%2Fget_file&_EXT_BBS_extFileId=659777) 
   
   - [불량율에 대한 시그마 수준과 불량율에 대한 Cpk](http://blog.naver.com/PostView.nhn?blogId=kohseiuk&logNo=130128534883) 
+  
+  - [공정능력 계산 - CP, CPK](https://m.blog.naver.com/PostView.nhn?blogId=easternsun&logNo=220063795394&proxyReferer=https:%2F%2Fwww.google.com%2F) 
 
 5. 특성요인도(cause-effect diagram)
 
