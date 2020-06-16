@@ -81,7 +81,7 @@
   
   - [관리도핵심요약](https://slidesplayer.org/slide/14294125/) 
   
-  -[품질 실무 관리도 / 샘플링 검사](http://www.hansung.ac.kr/web/quality-mgmt/4?p_p_id=EXT_BBS&p_p_lifecycle=1&p_p_state=exclusive&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_EXT_BBS_struts_action=%2Fext%2Fbbs%2Fget_file&_EXT_BBS_extFileId=659777) 
+  - [품질 실무 관리도](http://www.hansung.ac.kr/web/quality-mgmt/4?p_p_id=EXT_BBS&p_p_lifecycle=1&p_p_state=exclusive&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_EXT_BBS_struts_action=%2Fext%2Fbbs%2Fget_file&_EXT_BBS_extFileId=659777) 
 
 5. 특성요인도(cause-effect diagram)
 
